@@ -3,5 +3,17 @@ name = "ait-724-handson-2"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
-dependencies = []
+requires-python = ">=3.10"
+dependencies = [
+    "igraph>=1.0.0",
+    "jupyter>=1.1.1",
+    "jupyterlab>=4.4.10",
+    "matplotlib>=3.10.7",
+    "networkx>=3.4.2",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
+    "python-louvain>=0.16",
+    "requests>=2.32.5",
+    "seaborn>=0.13.2",
+    "tqdm>=4.67.1",
+]
