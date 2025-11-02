@@ -9,3 +9,8 @@ wheels/
 # Virtual environments
 .venv
 higgs_twitter_data/
+.ipynb_checkpoints/
+.DS_Store
+/lib/
+*.gexf
+*.html
